@@ -18,3 +18,5 @@ This is a Python-Django project from the scratch. In this , I create a project n
 6. HTML
 7. CSS &amp
 8. Bootstrap
+
+
